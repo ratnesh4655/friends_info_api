@@ -1,0 +1,99 @@
+
+[
+  {
+     
+    "first_name": "Keshav",
+    "last_name": "Uttare",
+    "email": "Keshav.Uttare@gmail.com",
+    "age": 26,
+    "gender": "male",
+    "city": "Bhuvneshavar",
+    "country": "India"
+  },
+  {
+     
+    "first_name": "Vakil",
+    "last_name": "Kumar",
+    "email": "Vakil.kumar@gmail.com",
+    "age": 25,
+    "gender": "male",
+    "city": "sivan",
+    "country": "India"
+  },
+  {
+     
+    "first_name": "Sanjeet",
+    "last_name": "Kumar",
+    "email": "Sanjeet.kumar@gmail.com",
+    "age": 28,
+    "gender": "male",
+    "city": "Sitamdhria",
+    "country": "India"
+  },
+  {
+    "first_name": "Nikhil",
+    "last_name": "Hooda",
+    "email": "nikhil.hooda@gmail.com",
+    "age": 24,
+    "gender": "male",
+    "city": "Gurugram",
+    "country": "India"
+  },
+  {
+     
+    "first_name": "Vishajeet",
+    "last_name": "Kumar",
+    "email": "Vishajeet.Vishajeet@gmail.com",
+    "age": 30,
+    "gender": "male",
+    "city": "Kunnure",
+    "country": "India"
+  },
+  {
+    "first_name": "Ram",
+    "last_name": "Sharma",
+    "email": "Ram.Sharma@gmail.com",
+    "age": 33,
+    "gender": "male",
+    "city": "Bangal",
+    "country": "India"
+  },
+  {
+     
+    "first_name": "Anup",
+    "last_name": "Sharma",
+    "email": "anup.sharma@gmail.com",
+    "age": 36,
+    "gender": "male",
+    "city": "Hydrabad",
+    "country": "India"
+  },
+  {
+    "first_name": "Anand",
+    "last_name": "Sinha",
+    "email": "Anand.sinha@gmail.com",
+    "age": 36,
+    "gender": "male",
+    "city": "Noida",
+    "country": "India"
+  },{
+     
+    "first_name": "Ratnesh",
+    "last_name": "Singh",
+    "email": "ratnesh@gmail.com",
+    "age": 28,
+    "gender": "male",
+    "city": "Noida",
+    "country": "India"
+  },
+  {
+     
+    "first_name": "Jokhai",
+    "last_name": "Singh",
+    "email": "jokhai.singh@gmail.com",
+    "age": 26,
+    "gender": "female",
+    "city": "Kerla",
+    "country": "India"
+  }
+]
